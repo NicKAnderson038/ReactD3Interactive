@@ -5,6 +5,9 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "chroma-js": "2.0.3",
+    "d3": "5.9.2",
+    "material-ui": "0.20.2",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-scripts": "2.1.8"
